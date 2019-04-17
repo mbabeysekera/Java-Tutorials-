@@ -7,5 +7,5 @@ Here in this tutorial, Encapsulation techniques are used to demonstrate the diff
  
  Just try to run your code by changing it to improve your idea on keywords.
  Check out me on: LinkedIn: https://www.linkedin.com/in/babey/
-                            GitHub: https://github.com/mbabeysekera/Arduino-Scratch-
+                            GitHub: https://github.com/mbabeysekera/
  
